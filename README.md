@@ -22,7 +22,7 @@ APIs & Automation (Requests etc.)
 🚀 How to Use
 
 Clone the repository:
-git clone https://github.com/your-username/python-projects.git
+git clone https://github.com/Salman-analyst/Python-Portfolio-Project.git
 Navigate to the project folder:
 cd python-projects/project-name
 
