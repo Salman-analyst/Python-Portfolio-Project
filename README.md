@@ -31,7 +31,7 @@ git clone https://github.com/Salman-analyst/Python-Portfolio-Project.git
 
 Navigate to the project folder:
 
-cd python-projects/project-name
+cd Python-Portfolio-Project
 
 Install required dependencies:
 pip install -r requirements.txt
